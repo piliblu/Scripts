@@ -1,7 +1,5 @@
 # Pili lobby
 
-## Welcome Message
-
 Hi 
 
 This is my github with some projects i do for my own. I´ll get a full guide for Juice-shop web pentesting and others for ddos mitigation techniques. 
@@ -10,3 +8,5 @@ This is my github with some projects i do for my own. I´ll get a full guide for
 + Full arduino for wifi hacking with some fether linux and python. 
 + mini kotlin APP 
 + repository of servers to do fun stuff
+
+## Suggestions are welcomed :)  
