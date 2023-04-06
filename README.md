@@ -2,11 +2,12 @@
 
 Hi 
 
-This is my github with some projects i do for my own. I´ll get a full guide for Juice-shop web pentesting and others for ddos mitigation techniques. 
+This is my github with some projects I do for my own.
 
 *** Projects for this 2023*** 
-+ mini kotlin APP 
-+ eJPT full documentation
-+ Az-500 full documentation
++ Add more tooling 
++ Add SQL tooling
+
+
 
 ## Suggestions are welcomed :)  
